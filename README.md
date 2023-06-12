@@ -1,2 +1,2 @@
 # Netology-Data-Scientist-middle
-Educational projects
+Students  projects
