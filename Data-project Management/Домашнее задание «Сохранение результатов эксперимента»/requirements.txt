@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+pycaret
+scipy
+joblib
+warnings
+collections
+imblearn
+optuna
+streamlit
+localtunnel
+urllib
